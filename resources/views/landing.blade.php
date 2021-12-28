@@ -301,7 +301,7 @@ Home
                     <div class="w-100p mw-33p pr300 px350-ns"><img class="px350-ns logo-grid" style="width:130%" src="{{ url('assets/ninelogos/europe_bank.png') }}"/></div>
                     <div class="w-100p mw-33p pr300 px350-ns"><img class="px350-ns logo-grid" style="width:90%" src="{{ url('assets/ninelogos/kpmg.png') }}"/></div>
                     <div class="w-100p mw-33p pr300 px350-ns"><img class="px350-ns logo-grid" src="{{ url('assets/ninelogos/london.png') }}"/></div>
-                    <div class="w-100p mw-33p pr300 px350-ns"><img class="px350-ns logo-grid" style="width:110%"src="{{ url('assets/ninelogos/world_bank.png') }}"/></div>
+                    <div class="w-100p mw-33p pr300 px350-ns"><img class="px350-ns logo-grid" style="width:120%"src="{{ url('assets/ninelogos/world_bank.png') }}"/></div>
                                         
                     
                     
