@@ -7,7 +7,7 @@
         <meta charset="UTF-8">
         <style>
             .logo-grid {
-                height: 10pc;
+                height: 8pc;
             }
             .play_pause 
             {
