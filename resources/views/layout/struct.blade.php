@@ -6,6 +6,9 @@
 
         <meta charset="UTF-8">
         <style>
+            .logo-grid {
+                height: 10pc;
+            }
             .play_pause 
             {
                 margin-top: 0px;

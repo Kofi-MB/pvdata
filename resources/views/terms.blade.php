@@ -182,6 +182,9 @@ Terms of Services
 
                                     <p style="padding: 10px 0px;"></p>
                                     <li>We also reserve the right to remove, block or prevent from being visible any of your Posted Content, at any time and without compensation.</li>
+
+                                    <p style="padding: 10px 0px;"></p>
+                                    <li>We reserve the right to upload user’s company logo on our website without giving notice.</li>
                                 </ol>
                             </li>
                             <li>
