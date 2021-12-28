@@ -295,13 +295,13 @@ Home
                     <p class="f400-ns f500">
                     PvData customers are industry leaders who embrace due diligence reporting as a vital part of their overall business strategies; and a key to addressing solar energy banakbility. </p>
                 </div>
-                <div class="col customer-logos flex flex-wrap justify-between mt600-m mw-58p-l mw-83p-m mx-auto pl-8p-offset-l px350-ns px450 relative w-100p">
-                    <div class="w-100p mw-33p pr300 px350-ns"><img class="logo-grid" src="{{ url('assets/ninelogos/adb.png') }}"/></div>
-                    <div class="w-100p mw-33p pr300 px350-ns"><img class="px350-ns logo-grid" src="{{ url('assets/ninelogos/black_rock.png') }}"/></div>
-                    <div class="w-100p mw-33p pr300 px350-ns"><img class="px350-ns logo-grid" src="{{ url('assets/ninelogos/europe_bank.png') }}"/></div>
-                    <div class="w-100p mw-33p pr300 px350-ns"><img class="px350-ns logo-grid" src="{{ url('assets/ninelogos/kpmg.png') }}"/></div>
+                <div style="padding-top:10px" class="col customer-logos flex flex-wrap justify-between mt600-m mw-58p-l mw-83p-m mx-auto pl-8p-offset-l px350-ns px450 relative w-100p">
+                    <div class="w-100p mw-33p pr300 px350-ns"><img class="logo-grid" style="width:90%" src="{{ url('assets/ninelogos/adb.png') }}"/></div>
+                    <div class="w-100p mw-33p pr300 px350-ns"><img class="px350-ns logo-grid" style="width:110%" src="{{ url('assets/ninelogos/black_rock.png') }}"/></div>
+                    <div class="w-100p mw-33p pr300 px350-ns"><img class="px350-ns logo-grid" style="width:130%" src="{{ url('assets/ninelogos/europe_bank.png') }}"/></div>
+                    <div class="w-100p mw-33p pr300 px350-ns"><img class="px350-ns logo-grid" style="width:90%" src="{{ url('assets/ninelogos/kpmg.png') }}"/></div>
                     <div class="w-100p mw-33p pr300 px350-ns"><img class="px350-ns logo-grid" src="{{ url('assets/ninelogos/london.png') }}"/></div>
-                    <div class="w-100p mw-33p pr300 px350-ns"><img class="px350-ns logo-grid" src="{{ url('assets/ninelogos/world_bank.png') }}"/></div>
+                    <div class="w-100p mw-33p pr300 px350-ns"><img class="px350-ns logo-grid" style="width:110%"src="{{ url('assets/ninelogos/world_bank.png') }}"/></div>
                                         
                     
                     
