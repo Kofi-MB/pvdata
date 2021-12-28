@@ -761,7 +761,7 @@ Home
                 </svg>
             </div>
         </section>
-        <section class="py700 section" id="team_section" style="padding-top:60px;">
+        <!-- <section class="py700 section" id="team_section" style="padding-top:60px;">
             <div class="mw900 mx-auto relative">
                 <div class="mw-66p-l mw-83p-m mx-auto-m pl-8p-offset-l px350-m px450 w-100p">
                     <h2 class="f700-m f800-l f900">Management Team </h2>
@@ -837,7 +837,7 @@ Home
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
     </main>
 </div>
 

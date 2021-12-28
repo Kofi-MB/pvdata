@@ -4507,11 +4507,11 @@
                                         <span>Pricing</span>
                                     </a>
                                 </li>
-                                <li class="mt0 w-100p w-auto-ns">
+                                <!-- <li class="mt0 w-100p w-auto-ns">
                                     <a class="c--text-inverse c--text-l db f500 f300-l fw-bold mr400-l pa400" href="{{ route('landing') . '#team_section' }}" on="tap:AMP.setState({ navState: false})">
                                         <span>Team</span>
                                     </a>
-                                </li>
+                                </li> -->
                                 <li class="mt0 w-100p w-auto-ns">
                                     <a class="c--text-inverse c--text-l db f500 f300-l fw-bold mr400-l pa400" href="{{ route('contact_us') }}" on="tap:AMP.setState({ navState: false})">
                                         <span>Contact</span>
