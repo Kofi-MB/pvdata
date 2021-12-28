@@ -743,7 +743,7 @@ Home
                 <div class="mw-83p-ns mx-auto px350-ns px450 py300-l py650-m w-100p">
                     <h2 class="c--text-inverse f700-m f800 f800-l ff-recoleta pr-16p-offset-l" style="padding-right: 0px ; font-size: 33px;">How to build a solar project finance model using PVDATA </h2>
                     <p class="500">Follow these easy steps to having your own bespoke solar finance model</p>
-                    <div class="row flex" style="justify-content: space-between;">
+                    <div class="row flex" style="justify-content: flex-end; margin-top: 20px;">
                         <!-- <button class="bg-transparent bn flex hover-underline-outward items-center justify-start">
                             <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="mr450 overflow-visible square600" height="81.727" id="svg-3mf54bn18s3g" viewbox="0 0 81.699 81.727" width="81.699">
                                 <path d="m0 40.85c0-22.56 18.29-40.85 40.85-40.85s40.85 18.29 40.85 40.85v.027c0 22.56-18.29 40.85-40.85 40.85s-40.85-18.29-40.85-40.85v-.027l31.157-14.994v30.207l26.167-15.04-26.167-15.167z" fill="#fdfffd" fill-rule="evenodd"></path>
