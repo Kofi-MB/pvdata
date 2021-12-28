@@ -113,7 +113,7 @@ Pricing
                         <div class="b--neutral-200 bb bw600 pa450 pt600-l">
                             <span class="bg--purple-700 br--x c--text-inverse f200 fw-bold px400 py200 z0" style="background-color: #6f5ed3; border-radius: 2000vw;"> Most Popular </span>
                             <h2 class="f500 mt400">Subscription</h2>
-                            <p class="f300 mt300">$95 per user/month </p>
+                            <p class="f300 mt300">$200 per user/month </p>
                             <div class="Card-body mt350 pa0 sl_swap" id="pricing-box-cta-professional">
                                 <a class="button db w-100p" style="font-size: 14px;">Start Your Free Analysis </a>
                             </div>
@@ -914,7 +914,7 @@ Pricing
                                             <div class="db-l db-p dn" data-amp-bind-class="pricingFAQ['faq_1_3'] ? 'dn db-p db-l' : 'db'">
                                                 <div class="pb400">
                                                     <p>
-                                                        When you are on a paid plan, you can cancel anytime for free 3months after signing up for your selected plan. See our <a href="./terms.html" target="_blank">Terms of Service</a> for more information. 
+                                                        When you are on a paid plan, you can cancel anytime for free 3months after signing up for your selected plan. See our <a href="{{ route('terms') }}" target="_blank">Terms of Service</a> for more information. 
                                                     </p>
                                                 </div>
                                             </div>
@@ -972,7 +972,7 @@ Pricing
                                             </button>
                                             <div class="db-l db-p dn" data-amp-bind-class="pricingFAQ['faq_2_2'] ? 'dn db-p db-l' : 'db'">
                                                 <div class="pb400">
-                                                    <p>Users on paid plans have a one-time 3months initial commitment which starts after you begin a paid plan. Thereafter, your contract with us will be on a monthly rolling basis, and users have the option to cancel during the rolling period without charge. See our  <a href="./terms.html" target="_blank">Terms of Service</a> for more information.  </p>
+                                                    <p>Users on paid plans have a one-time 3months initial commitment which starts after you begin a paid plan. Thereafter, your contract with us will be on a monthly rolling basis, and users have the option to cancel during the rolling period without charge. See our  <a  href="{{ route('terms') }}" target="_blank">Terms of Service</a> for more information.  </p>
                                                 </div>
                                             </div>
                                         </div>

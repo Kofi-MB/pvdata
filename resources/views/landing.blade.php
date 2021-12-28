@@ -404,7 +404,7 @@ Home
                     <h2 class="screenreader">Customer Testimonials </h2>
                     <div class="mt0 mw900 mx-auto relative testimonial-container w-100p">
                         <div class="absolute left0 o-100 pointer-events-all right0 testimonial-slide top0" data-amp-bind-class="'testimonial-slide absolute top0 left0 right0' + (testimonialSlider.currentSlide != 1 ? ' o-0 pointer-events-none z0' : ' o-100 pointer-events-all')" id="slideNum1">
-                            <div class="dn-l flex items-center justify-between mb400 mw-83p-m mx-auto w-100p">
+                            <!-- <div class="dn-l flex items-center justify-between mb400 mw-83p-m mx-auto w-100p">
                                 
                                 <div class="flex justify-center px350-ns px450">
                                     <button class="bg--neutral-200 br--round button-reset c--neutral-800 flex hover-bg--neutral-300 hover-c--neutral-800 items-center justify-center overflow-visible pa0 square500" on="tap:AMP.setState({ testimonialSlider: {currentSlide: testimonialSlider.currentSlide&gt; 1 ? testimonialSlider.currentSlide - 1 : 3 }})">
@@ -420,7 +420,7 @@ Home
                                         </svg>
                                     </button>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="flex flex-column-reverse flex-row-ns items-center items-stretch-ns mb500-m mw-83p-m mx-auto relative w-100p">
                                 <div class="mb0-ns mb450 mw-30p-m mw-33p-l px350-ns px450 w-100p">
                                     <amp-img alt="Headshot of Katie Bisbee" class="db-l dn h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="1174" layout="responsive" src="{{ url('assets/Customer/taylor segreti.jpg') }}" width="784" i-amphtml-layout="responsive" style="min-height: 0% !important; height:80%;">
@@ -431,10 +431,10 @@ Home
                                     </amp-img>
                                     <amp-img alt="Headshot of Katie Bisbee" class="db dn-ns h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="656" layout="responsive" src="{{ url('assets/Customer/taylor segreti.jpg') }}" width="656" i-amphtml-layout="responsive">
                                         <i-amphtml-sizer style="display:block;padding-top:100.0000%;"></i-amphtml-sizer>
-                                    </amp-img>
+                                    </amp-img> 
                                 </div>
                                 <div class="flex flex-column justify-between-l justify-start-m mb0-ns mb450 mw-50p-l mw-70p-m mx-auto-l px350-ns px450 w-100p" style="height: 80%;">
-                                    <div class="dn flex-column-reverse flex-l h-100p h-auto-l mt700-l" style="margin-top: 20px; margin-bottom: 20px;">
+                                    <!-- <div class="dn flex-column-reverse flex-l h-100p h-auto-l mt700-l" style="margin-top: 20px; margin-bottom: 20px;">
                                         
                                         <div class="flex justify-center self-end">
                                             <button class="bg--neutral-200 br--round button-reset c--neutral-800 flex hover-bg--neutral-300 hover-c--neutral-800 items-center justify-center overflow-visible pa0 square500" on="tap:AMP.setState({ testimonialSlider: {currentSlide: 3 }})">
@@ -450,14 +450,14 @@ Home
                                                 </svg>
                                             </button>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <div class="mb500-l" style="margin-bottom: 4.77778rem; margin-top: 2rem;">
                                         <blockquote class="f500-m f600-l f700 ff-recoleta fw-semibold">This is an exciting data tool that enables me to structure multiple solar deals within minutes. It gives me the full flexibility to structure deals that matches my clients specifications. PVDATA automates the entire project finance modelling for you which makes my work much easier. </blockquote>
                                         <p class="f300-l f400-m f500 mt400">Taylor S., Associate at CIBC Capital Markets</p>
                                     </div>
                                     <div class="b--neutral-200 bt dn flex-l items-center justify-between pt500" >
                                         <div class="inline-flex">
-                                            <button class="bg-transparent bn button-reset c--aqua-1100 flex items-center mr400 overflow-visible pa0 square400" data-amp-bind-class="'mr400 button-reset pa0 overflow-visible bg-transparent bn flex items-center square400 ' + (testimonialSlider.currentSlide == 1 ? 'c--aqua-1100 ' : 'c--neutral-500 ')" on="tap:AMP.setState({ testimonialSlider: {currentSlide: 1 }})">
+                                            <!-- <button class="bg-transparent bn button-reset c--aqua-1100 flex items-center mr400 overflow-visible pa0 square400" data-amp-bind-class="'mr400 button-reset pa0 overflow-visible bg-transparent bn flex items-center square400 ' + (testimonialSlider.currentSlide == 1 ? 'c--aqua-1100 ' : 'c--neutral-500 ')" on="tap:AMP.setState({ testimonialSlider: {currentSlide: 1 }})">
                                                 <span class="screenreader" data-amp-bind-text="(testimonialSlider.currentSlide == 1 ? 'Currently on slide ' : 'Go to slide ') + 1 + ' of ' + 3">1 of 3</span>
                                                 <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="overflow-visible" focusable="false" height="16" role="img" viewbox="0 0 512 512" width="16">
                                                     <path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z" fill="currentColor"></path>
@@ -474,13 +474,13 @@ Home
                                                 <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="overflow-visible" focusable="false" height="16" role="img" viewbox="0 0 512 512" width="16">
                                                     <path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z" fill="currentColor"></path>
                                                 </svg>
-                                            </button>
+                                            </button> -->
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="absolute left0 o-0 pointer-events-none right0 testimonial-slide top0 z0" data-amp-bind-class="'testimonial-slide absolute top0 left0 right0' + (testimonialSlider.currentSlide != 2 ? ' o-0 pointer-events-none z0' : ' o-100 pointer-events-all')" id="slideNum2">
+                        <!-- <div class="absolute left0 o-0 pointer-events-none right0 testimonial-slide top0 z0" data-amp-bind-class="'testimonial-slide absolute top0 left0 right0' + (testimonialSlider.currentSlide != 2 ? ' o-0 pointer-events-none z0' : ' o-100 pointer-events-all')" id="slideNum2">
                             <div class="dn-l flex items-center justify-between mb400 mw-83p-m mx-auto w-100p">
                                 
                                 <div class="flex justify-center px350-ns px450">
@@ -633,7 +633,7 @@ Home
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div aria-hidden="true" class="o-0 pointer-events-none testimonial-slide-sizer z-0" id="slideSizer">
                             <div class="dn-l flex items-center justify-between mb400 mw-83p-m mx-auto w-100p">
                                 
@@ -682,7 +682,7 @@ Home
                                         </div>
                                     </div>
                                     <div class="mb500-l">
-                                        <blockquote class="f500-m f600-l f700 ff-recoleta fw-semibold">This is an exciting data tool that enables me to structure multiple solar deals within minutes. It gives me the full flexibility to structure deals that matches my clients specifications. PVDATA automates the entire project finance modelling for you which makes my work much easier. </blockquote>
+                                        <blockquote class="f500-m f600-l f700 ff-recoleta fw-semibold">Noneed - 123This is an exciting data tool that enables me to structure multiple solar deals within minutes. It gives me the full flexibility to structure deals that matches my clients specifications. PVDATA automates the entire project finance modelling for you which makes my work much easier. </blockquote>
                                         <p class="f300-l f400-m f500 mt400">Taylor S., Associate at CIBC Capital Markets</p>
                                     </div>
                                     <div class="b--neutral-200 bt dn flex-l items-center justify-between pt500">
@@ -710,7 +710,7 @@ Home
                                 </div>
                             </div>
                         </div>
-                        <div class="mw-83p-m mx-auto w-100p z3">
+                        <!-- <div class="mw-83p-m mx-auto w-100p z3">
                             <div class="b--neutral-200 bt db dn-l flex items-center justify-between mx350-ns mx450 pt500">
                                 <div class="inline-flex">
                                     <button class="bg-transparent bn button-reset c--aqua-1100 flex items-center mr400 overflow-visible pa0 square400" data-amp-bind-class="'mr400 button-reset pa0 overflow-visible bg-transparent bn flex items-center square400 ' + (testimonialSlider.currentSlide == 1 ? 'c--aqua-1100 ' : 'c--neutral-500 ')" on="tap:AMP.setState({ testimonialSlider: {currentSlide: 1 }})">
@@ -733,7 +733,7 @@ Home
                                     </button>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -744,14 +744,14 @@ Home
                     <h2 class="c--text-inverse f700-m f800 f800-l ff-recoleta pr-16p-offset-l" style="padding-right: 0px ; font-size: 33px;">How to build a solar project finance model using PVDATA </h2>
                     <p class="500">Follow these easy steps to having your own bespoke solar finance model</p>
                     <div class="row flex" style="justify-content: space-between;">
-                        <button class="bg-transparent bn flex hover-underline-outward items-center justify-start">
+                        <!-- <button class="bg-transparent bn flex hover-underline-outward items-center justify-start">
                             <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="mr450 overflow-visible square600" height="81.727" id="svg-3mf54bn18s3g" viewbox="0 0 81.699 81.727" width="81.699">
                                 <path d="m0 40.85c0-22.56 18.29-40.85 40.85-40.85s40.85 18.29 40.85 40.85v.027c0 22.56-18.29 40.85-40.85 40.85s-40.85-18.29-40.85-40.85v-.027l31.157-14.994v30.207l26.167-15.04-26.167-15.167z" fill="#fdfffd" fill-rule="evenodd"></path>
                             </svg>
                             <span class="f600-l fw-extrabold">
                                 <span class="line relative z1">Watch video</span>
                             </span>
-                        </button>
+                        </button> -->
                         <a class="Button--large button mb0-ns mb600 mr500-ns m-t-20 w-90">Start Your Free Anaysis </a>
                         <a class="Button--large button _light mb0-ns mb600 mr500-ns w-90">Download for Free </a> 
                     </div>
